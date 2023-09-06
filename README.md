@@ -2,7 +2,7 @@
 ### Olá, eu sou André Ferreira! Estudante de programação
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreFerreira-12&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreFerreira-12&theme=tokyonight)
 
 ##
 <div style="display: inline_block"><br>
